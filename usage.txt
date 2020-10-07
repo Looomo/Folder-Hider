@@ -1,0 +1,2 @@
+1. put hide.bat and recover.bat anywhere you want ( better G:\ )
+2. run inject.reg ( edit path if  you put the bat file in another directory , no need to edit if you put them at G:\)
